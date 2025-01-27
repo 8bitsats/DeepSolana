@@ -9,3 +9,4 @@
 * [The DeepEra](the-deepera/README.md)
   * [AetherMeta Protocol](the-deepera/aethermeta-protocol.md)
   * [Introducing AetherMeta Protocol](the-deepera/introducing-aethermeta-protocol.md)
+* [Templates](templates.md)
